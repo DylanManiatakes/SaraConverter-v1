@@ -203,7 +203,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by [Your Name](https://github.com/yourusername).
+Developed by Dylan Maniatakes (https://github.com/DylanManiatakes).
 
 ---
 
