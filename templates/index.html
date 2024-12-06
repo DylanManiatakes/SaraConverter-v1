@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sara to Arial Converter</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="manifest" href="/static/manifest.json">
+</head>
+<body>
+    <div class="container">
+        <h1>Sara to Arial Converter</h1>
+        <p>Upload your Sara Export CSV file, and we'll convert it for the Arial system.</p>
+        <form action="/" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" id="file" accept=".csv" required>
+            <button type="submit">Convert File</button>
+        </form>
+        <div class="footer">
+            <p>&copy; 2024 Sara to Arial Converter. All rights reserved.</p>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
